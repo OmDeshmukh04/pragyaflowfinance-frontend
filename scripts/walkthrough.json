@@ -1,0 +1,38 @@
+[
+  {
+    "id": "imports",
+    "narration": "Welcome to Pragya Flow Finance, your desktop reconciliation workspace. Start a new reconciliation and select the bank and ledger files. This walkthrough uses two synthetic sample files, with no customer uploads."
+  },
+  {
+    "id": "mapping",
+    "narration": "Review both files side by side. Map the reference, transaction date, signed amount, and currency. Required fields must match the sample schema before you can continue."
+  },
+  {
+    "id": "rules",
+    "narration": "A reusable workflow defines the matching policy. This sample compares exact references and signed amounts, in the same currency and on the same day. Ambiguous matches remain open."
+  },
+  {
+    "id": "overview",
+    "narration": "Run the sample preview to open the results dashboard. Twenty source records become sixteen matched records, two records with an amount difference, and two missing counterparts. Open the full dashboard to see source totals and review workload."
+  },
+  {
+    "id": "results",
+    "narration": "The results separate matched records, differences, and missing counterparts. Search by reference or business, then open a transaction to inspect the evidence behind the result."
+  },
+  {
+    "id": "evidence",
+    "narration": "Review the bank and ledger amounts side by side. Source file names and row numbers connect the result to its original records. Differences are never silently written off."
+  },
+  {
+    "id": "proposal",
+    "narration": "For an exact candidate, add a review reason and submit a proposal. A proposal is not an approval, and it does not change accepted balances."
+  },
+  {
+    "id": "approval",
+    "narration": "A different reviewer checks the proposal. In this preview, switch to the demo approver to complete the review. Self approval is blocked, and the decision appears in workspace activity."
+  },
+  {
+    "id": "finish",
+    "narration": "Pragya Flow Finance. Clear records, traceable decisions. This is an interactive product preview. Live imports, database processing, and A I driven reconciliation are not connected yet."
+  }
+]

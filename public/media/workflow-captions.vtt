@@ -1,0 +1,79 @@
+WEBVTT
+
+00:00:00.948 --> 00:00:06.175
+Welcome to Pragya Flow Finance, your desktop reconciliation workspace.
+
+00:00:06.175 --> 00:00:11.403
+Start a new reconciliation and select the bank and ledger files.
+
+00:00:11.403 --> 00:00:16.630
+This walkthrough uses two synthetic sample files, with no customer uploads.
+
+00:00:17.663 --> 00:00:21.727
+Review both files side by side.
+
+00:00:21.727 --> 00:00:25.791
+Map the reference, transaction date, signed amount, and currency.
+
+00:00:25.791 --> 00:00:29.855
+Required fields must match the sample schema before you can continue.
+
+00:00:30.895 --> 00:00:35.097
+A reusable workflow defines the matching policy.
+
+00:00:35.097 --> 00:00:39.300
+This sample compares exact references and signed amounts, in the same currency and on the same day.
+
+00:00:39.300 --> 00:00:43.502
+Ambiguous matches remain open.
+
+00:00:47.462 --> 00:00:52.726
+Run the sample preview to open the results dashboard.
+
+00:00:52.726 --> 00:00:57.990
+Twenty source records become sixteen matched records, two records with an amount difference, and two missing counterparts.
+
+00:00:57.990 --> 00:01:03.254
+Open the full dashboard to see source totals and review workload.
+
+00:01:04.297 --> 00:01:09.981
+The results separate matched records, differences, and missing counterparts.
+
+00:01:09.981 --> 00:01:15.664
+Search by reference or business, then open a transaction to inspect the evidence behind the result.
+
+00:01:16.745 --> 00:01:20.492
+Review the bank and ledger amounts side by side.
+
+00:01:20.492 --> 00:01:24.240
+Source file names and row numbers connect the result to its original records.
+
+00:01:24.240 --> 00:01:27.987
+Differences are never silently written off.
+
+00:01:29.330 --> 00:01:34.426
+For an exact candidate, add a review reason and submit a proposal.
+
+00:01:34.426 --> 00:01:39.523
+A proposal is not an approval, and it does not change accepted balances.
+
+00:01:40.611 --> 00:01:44.812
+A different reviewer checks the proposal.
+
+00:01:44.812 --> 00:01:49.013
+In this preview, switch to the demo approver to complete the review.
+
+00:01:49.013 --> 00:01:53.213
+Self approval is blocked, and the decision appears in workspace activity.
+
+00:01:54.276 --> 00:01:58.050
+Pragya Flow Finance.
+
+00:01:58.050 --> 00:02:01.824
+Clear records, traceable decisions.
+
+00:02:01.824 --> 00:02:05.599
+This is an interactive product preview.
+
+00:02:05.599 --> 00:02:09.373
+Live imports, database processing, and A I driven reconciliation are not connected yet.
